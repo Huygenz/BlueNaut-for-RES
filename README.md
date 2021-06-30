@@ -5,12 +5,13 @@ Naut is a CSS theme you can use on [Reddit](http://www.Reddit.com). It's free to
 ## THIS IS WORK IN PROGRESS, NO RELEASE YET.
 
 ### Goal
-Trying to port Naut to RES.
-Changing colors to fit my [Bluemist theme](https://github.com/huygenz/brackets-bluemist).
+Getting Naut to play nice with RES.
+Changing Naut to fit my flat [Bluemist theme](https://github.com/huygenz/brackets-bluemist).
 
 ### WIP
 It's still missing much stuff but if you want to give it a go, you can link RES to this Stylesheet:
-[https://huygenz.github.io/huygenz/bluenaut.min.css![RosybrownHornbill](https://user-images.githubusercontent.com/2411715/124014522-ea801c00-d9e3-11eb-844d-2570644d664b.png)
+[https://huygenz.github.io/huygenz/bluenaut.min.css
 
+###Preview
 ![RosybrownHornbill](https://user-images.githubusercontent.com/2411715/124015109-9aee2000-d9e4-11eb-8116-456dd722e648.png)
 
