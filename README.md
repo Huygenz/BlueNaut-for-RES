@@ -12,7 +12,7 @@ Trying to port Naut to RES.
 I'll start with nightmode first, as this is the one I use.
 I'll go with colors from my [Brackest Bluemist theme](https://github.com/Huygenz/brackets-bluemist) first, as everything here is Bluemist atm.
 
-![Naut 4.2](https://i.imgur.com/xbLfJS6.png)
+![NotedEeve](https://user-images.githubusercontent.com/2411715/123990553-24dcbf80-d9ca-11eb-834b-ee024bcbcd6a.png)
 
 ## Installation
 
