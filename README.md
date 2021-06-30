@@ -4,6 +4,14 @@ Naut is a CSS theme you can use on [Reddit](http://www.Reddit.com). It's free to
 
 ## THIS IS WORK IN PROGRESS, NO RELEASE YET.
 
+### Goal
+Naut looks pretty good, but RES seems to have problems integrating it. 
+Trying to port Naut to RES.
+
+### WIP
+I'll start with nightmode first, as this is the one I use.
+I'll go with colors from my [Brackest Bluemist theme](https://github.com/Huygenz/brackets-bluemist) first, as everything here is Bluemist atm.
+
 ![Naut 4.2](https://i.imgur.com/xbLfJS6.png)
 
 ## Installation
