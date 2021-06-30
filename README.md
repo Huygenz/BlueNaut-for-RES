@@ -2,7 +2,7 @@
 
 Naut is a CSS theme you can use on [Reddit](http://www.Reddit.com). It's free to use, any Subreddit can use and edit it. Visit [/r/Naut](http://www.Reddit.com/r/Naut) to preview the theme. This fork is done for personal use and further customization.
 
-# THIS IS WORK IN PROGRESS!
+# ♥ THIS IS WORK IN PROGRESS ♥
 
 ### Goal
 Getting Naut to play nice with RES.
